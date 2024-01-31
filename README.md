@@ -49,7 +49,7 @@ It only demonstrates "how network scanning tool". <b>You shall not misuse the in
 
 - Just, Clone this repository -
   ```
- git clone https://github.com/PberAcademy/Firestthing.git
+   git clone https://github.com/PberAcademy/Firestthing.git
   ```
 
 - Now go to cloned directory and run `runme.sh` -
