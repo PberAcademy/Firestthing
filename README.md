@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+<!-- firesthing -->
 
 <p align="center">
   <img src="https://github.com/PberAcademy/Firestthing/blob/main/image.png">
@@ -49,10 +49,10 @@ It only demonstrates "how network scanning tool". <b>You shall not misuse the in
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/pberacademy/firestthing.git
+ git clone https://github.com/PberAcademy/Firestthing.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `runme.sh` -
   ```
   $ cd firestthing
   $ chmod +x runme.sh
